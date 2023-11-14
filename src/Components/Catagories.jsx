@@ -176,14 +176,14 @@ export default function App() {
                         <div className=''>
                            
                            
-                           <img src={cat1} alt="" className=' w-[250px] h-[250px]    object-cover mix-blend-overlay hover:border-red-800 ' />
+                           <img src={cat1} alt="" className=' w-[270px] h-[250px]    object-cover mix-blend-overlay hover:border-red-800 ' />
                            <div className='float-right  mt-[-250px]  hover:mr-5  mx-3   '>
                            <AiFillHeart className='text-purple-800 border-purple-800 text-2xl border-[2px] p-1 rounded-full mt-2  '/>
                            </div>
                    
                            <div className='hover:bg-[#4d4848] hover:text-white  hover:mt-[-20px] duration-300'>
                                    
-                                    <p className='text-center mx-3 mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
+                                    <p className='text-center mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
                                     <h1 className='text-center my-2 font-bold text-white'>Rs1300.00</h1>
                                 </div>
                        </div>
@@ -198,7 +198,7 @@ export default function App() {
                         
                            <div className='hover:bg-[#4d4848] hover:text-white  hover:mt-[-20px] duration-300'>
                                    
-                                   <p className='text-center mx-3 mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
+                                   <p className='text-center  mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
                                    <h1 className='text-center my-2 font-bold text-white'>Rs1300.00</h1>
                                </div>
                             </div>
@@ -228,7 +228,7 @@ export default function App() {
                    
                            <div className='hover:bg-[#4d4848] hover:text-white  hover:mt-[-20px] duration-300'>
                                    
-                                    <p className='text-center mx-3 mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
+                                    <p className='text-center  mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
                                     <h1 className='text-center my-2 font-bold text-white'>Rs1300.00</h1>
                                 </div>
                        </div>
@@ -243,7 +243,7 @@ export default function App() {
                         
                            <div className='hover:bg-[#4d4848] hover:text-white  hover:mt-[-20px] duration-300'>
                                    
-                                    <p className='text-center mx-3 mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
+                                    <p className='text-center  mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
                                     <h1 className='text-center my-2 font-bold text-white'>Rs1300.00</h1>
                                 </div>
                             </div>
@@ -267,7 +267,7 @@ export default function App() {
                    
                            <div className='hover:bg-[#4d4848] hover:text-white  hover:mt-[-20px] duration-300'>
                                    
-                                    <p className='text-center mx-3 mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
+                                    <p className='text-center  mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
                                     <h1 className='text-center my-2 font-bold text-white'>Rs1300.00</h1>
                                 </div>
                        </div>
@@ -282,7 +282,7 @@ export default function App() {
                         
                                 <div className='hover:bg-[#4d4848] hover:text-white  hover:mt-[-20px] duration-300'>
                                    
-                                    <p className='text-center mx-3 mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
+                                    <p className='text-center  mt-2 text-[17px] text-white'>Full Tang Columbia Knife SA27 ( Dark Brown Handle )</p>
                                     <h1 className='text-center my-2 font-bold text-white'>Rs1300.00</h1>
                                 </div>
                             </div>

@@ -3,10 +3,10 @@ import footer1 from '../assets/footer1.jpg'
 
 const Footer = () => {
     return (
-        <div className='bg-white md:h-[120vh] h-[250vh]'>
+        <div className='bg-white md:h-[120vh] h-[310vh]'>
             <div className='md:grid md:grid-cols-4 my-5 md:ml-3 gap-4 md:mx-3 '>
                 <div className=' '>
-                    <div className='my-10'>
+                    <div className='my-10 mx-5'>
                         <h1 className='text-center text-3xl font-semibold '>Latest</h1>
 
                         <img src={footer1} alt="" className='w-[120px]   h-[100px] mt-5' />
@@ -26,7 +26,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className='my-5 '>
+                <div className='my-5 mx-5'>
                     <div className='my-5'>
                         <h1 className='text-center text-3xl font-semibold '>BEST SELLING</h1>
 
@@ -37,7 +37,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <hr />
-                    <div className=''>
+                    <div className='mx-5'>
              
 
                         <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
@@ -47,7 +47,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <hr />
-                    <div className=''>
+                    <div className='mx-5'>
              
 
                         <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
@@ -56,7 +56,7 @@ const Footer = () => {
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
                         </div>
                     </div>
-                    <div className=''>
+                    <div className='mx-5'>
              
 
                         <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
@@ -67,7 +67,7 @@ const Footer = () => {
                     </div>
                   
                 </div>
-                <div className='mt-5 '>
+                <div className='mt-5 mx-5'>
                     <div className='my-5'>
                         <h1 className='text-center text-3xl font-semibold '>FEATURED</h1>
 
@@ -78,7 +78,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <hr />
-                    <div className=''>
+                    <div className='mx-5'>
              
 
                         <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
@@ -87,7 +87,7 @@ const Footer = () => {
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
                         </div>
                     </div>
-                    <div className=''>
+                    <div className='mx-5'>
              
 
                         <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
@@ -96,7 +96,7 @@ const Footer = () => {
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
                         </div>
                     </div>
-                    <div className=''>
+                    <div className='mx-5'>
              
 
                         <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
@@ -107,7 +107,7 @@ const Footer = () => {
                     </div>
                   
                 </div>
-                <div className='mt-5 '>
+                <div className='mt-5 mx-5'>
                     <div className='my-5'>
                         <h1 className='text-center text-3xl font-semibold '>TOP RATED</h1>
 
@@ -118,7 +118,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <hr />
-                    <div className=''>
+                    <div className='mx-5'>
              
 
                         <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
@@ -127,7 +127,7 @@ const Footer = () => {
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
                         </div>
                     </div>
-                    <div className=''>
+                    <div className='mx-5'>
              
 
                         <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />

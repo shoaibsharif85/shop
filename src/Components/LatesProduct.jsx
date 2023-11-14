@@ -172,16 +172,8 @@ const LatesProduct = () => {
       {/* Responsive */}
 
 
-      <div className='grid grid-cols-2 ml-2 my-5 md:hidden flex'>
+      <div className='grid grid-cols-2 mx-1  my-5 md:hidden flex'>
         <div className='  cursor-pointer   '>
-          <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[200px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
-            <h1>Laptop</h1>
-            <p className='font-semibold'>21product</p>
-          </div>
-
-        </div>
-        <div className=' mx-2 cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
           <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
@@ -189,18 +181,9 @@ const LatesProduct = () => {
           </div>
 
         </div>
-
-        <div className='  cursor-pointer   '>
-          <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[200px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
-            <h1>Laptop</h1>
-            <p className='font-semibold'>21product</p>
-          </div>
-
-        </div>
         <div className=' mx-2 cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[168px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -209,7 +192,7 @@ const LatesProduct = () => {
 
         <div className='  cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[200px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -217,7 +200,7 @@ const LatesProduct = () => {
         </div>
         <div className=' mx-2 cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[168px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -226,7 +209,7 @@ const LatesProduct = () => {
 
         <div className='  cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[200px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -234,7 +217,7 @@ const LatesProduct = () => {
         </div>
         <div className=' mx-2 cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[168px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -243,7 +226,7 @@ const LatesProduct = () => {
 
         <div className='  cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[200px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -251,7 +234,7 @@ const LatesProduct = () => {
         </div>
         <div className=' mx-2 cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[168px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -260,7 +243,7 @@ const LatesProduct = () => {
 
         <div className='  cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[200px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -268,7 +251,7 @@ const LatesProduct = () => {
         </div>
         <div className=' mx-2 cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[168px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -277,7 +260,7 @@ const LatesProduct = () => {
 
         <div className='  cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
-          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[200px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
@@ -285,7 +268,24 @@ const LatesProduct = () => {
         </div>
         <div className=' mx-2 cursor-pointer   '>
           <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[168px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+            <h1>Laptop</h1>
+            <p className='font-semibold'>21product</p>
+          </div>
+
+        </div>
+
+        <div className='  cursor-pointer   '>
+          <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
           <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[185px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
+            <h1>Laptop</h1>
+            <p className='font-semibold'>21product</p>
+          </div>
+
+        </div>
+        <div className=' mx-2 cursor-pointer   '>
+          <img src={product1} alt="" className='w-[200px]   h-[200px] duration-300' />
+          <div className='hover:bg-[#2b2828] object-cover mix-blend-lighten  hover:mix-overlay duration-300  w-[168px] p-4 hover:mt-[-10px] text-center font-bold text-white'>
             <h1>Laptop</h1>
             <p className='font-semibold'>21product</p>
           </div>
