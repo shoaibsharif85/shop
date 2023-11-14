@@ -30,7 +30,7 @@ const Footer = () => {
                     <div className='my-5'>
                         <h1 className='text-center text-3xl py-10  font-semibold '>BEST SELLING</h1>
 
-                        <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
                             <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -40,7 +40,7 @@ const Footer = () => {
                     <div className='mx-5'>
              
 
-                        <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]  h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
                             <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -50,7 +50,7 @@ const Footer = () => {
                     <div className='mx-5'>
              
 
-                        <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]  h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
                             <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -59,7 +59,7 @@ const Footer = () => {
                     <div className='mx-5'>
              
 
-                        <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
                             <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -71,7 +71,7 @@ const Footer = () => {
                     <div className='my-5'>
                         <h1 className='text-center text-3xl py-10  font-semibold '>FEATURED</h1>
 
-                        <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
                             <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -81,7 +81,7 @@ const Footer = () => {
                     <div className=''>
              
 
-                        <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
                         <div className=' float-right  mt-[-110px] '>
                             <h1 className='my-2 mx-5 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2  mx-5 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -99,7 +99,7 @@ const Footer = () => {
                     <div className='mx-5'>
              
 
-                        <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
                             <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -111,7 +111,7 @@ const Footer = () => {
                     <div className='my-5'>
                         <h1 className='text-center text-3xl py-10  font-semibold '>TOP RATED</h1>
 
-                        <img src={footer1} alt="" className='w-[110px]  mx-5 h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
                             <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -121,7 +121,7 @@ const Footer = () => {
                     <div className='mx-5'>
              
 
-                        <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
+                        <img src={footer1} alt="" className='w-[110px]   h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
                             <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
@@ -132,7 +132,7 @@ const Footer = () => {
 
                         <img src={footer1} alt="" className='w-[110px] mx-5  h-[100px] mt-5' />
                         <div className=' float-right mt-[-110px] '>
-                            <h1 className='my-2 text-2xl text-purple-800'>Sumsang Z</h1>
+                            <h1 className='my-2 mx-5 text-2xl text-purple-800'>Sumsang Z</h1>
                             <h1 className='my-2 text-[20px]'>₨300.00 ₨200.00</h1>
                         </div>
                     </div>
