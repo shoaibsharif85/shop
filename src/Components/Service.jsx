@@ -19,7 +19,7 @@ const Service = () => {
                 </div>
                 <div className='md:border md:border-[2px]  md:border-t-0 md:border-b-0   md:border-s-black '>
                     <div className='mt-40 '>
-                        <img src={service} alt="" className='border ml-10 border-purple-800 p-[100px] hover:bg-purple-800 mt-[-150px] w-[250px]  md:w-[300px] border-[1px] rounded-full ' />
+                        <img src={service} alt="" className='border ml-10 border-purple-800 p-[80px] hover:bg-purple-800 mt-[-150px] w-[250px]  md:w-[300px] border-[1px] rounded-full ' />
 
                     </div>
                     <h1 className='text-center font-bold text-white mt-10 md:ml-[-70px] '>
@@ -29,7 +29,7 @@ const Service = () => {
                 </div>
                 <div className=' ml-10    '>
                     <div className='mt-40'>
-                        <img src={custom} alt="" className='border border-purple-800 p-[100px] hover:bg-purple-800 mt-[-150px]  w-[250px]  md:w-[300px] border-[1px] rounded-full ' />
+                        <img src={custom} alt="" className='border border-purple-800 p-[80px] hover:bg-purple-800 mt-[-150px]  w-[250px]  md:w-[300px] border-[1px] rounded-full ' />
 
                     </div>
                     <h1 className='text-center font-bold text-white mt-10  md:ml-[-70px] '>
