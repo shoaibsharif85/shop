@@ -30,9 +30,9 @@ const Navbar = () => {
                     </li>
                     <li className='text-[18px] font-bold  hover:text-white'><a href="">Shop Catagories</a></li>
                     <li className='text-[18px] font-bold  hover:text-white'><a href="">Instagram</a></li>
-                    <img src={logo} alt="" className='h-[80px]   ml-[230px] mt-[-20px]' />
+                    <img src={logo} alt="" className='h-[80px]   ml-[170px] mt-[-20px]' />
 
-                    <div className='flex  mt-[5px]  ml-[300px]'>
+                    <div className='flex  mt-[5px]  md:ml-[260px]'>
 
                         <button className=' mx-5  bg-black text-white p-[3px]  text-[13px] h-8 w-[60px] hover:bg-slate-400 rounded-full'>Login </button>
                         <button className='flex    bg-black text-white p-[6px] text-[13px] h-8 hover:bg-slate-400 rounded-md'>Cart/Rs0.00<AiOutlineShoppingCart className='ml-2   text-2xl font-extrabold ' /></button>

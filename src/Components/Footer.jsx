@@ -3,9 +3,9 @@ import footer1 from '../assets/footer1.jpg'
 
 const Footer = () => {
     return (
-        <div className='bg-white md:h-[140vh] h-[230vh]'>
+        <div className='bg-white md:h-[120vh] h-[250vh]'>
             <div className='md:grid md:grid-cols-4 my-5 md:ml-3 gap-4 md:mx-3 '>
-                <div className='mt-20 '>
+                <div className=' '>
                     <div className='my-10'>
                         <h1 className='text-center text-3xl font-semibold '>Latest</h1>
 
@@ -26,7 +26,7 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
-                <div className='mt-5 '>
+                <div className='my-5 '>
                     <div className='my-5'>
                         <h1 className='text-center text-3xl font-semibold '>BEST SELLING</h1>
 
